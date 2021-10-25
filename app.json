@@ -1,0 +1,27 @@
+{
+    "id": "106c7fa4-90d2-4b20-9fb8-8e1263098d46",
+    "name": "BackEndWebShop-AM",
+    "publisher": "Default publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "19.0.0.0",
+    "idRanges": [{
+        "from": 50100,
+        "to": 50104
+    }],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": false
+    },
+    "runtime": "8.0"
+}
